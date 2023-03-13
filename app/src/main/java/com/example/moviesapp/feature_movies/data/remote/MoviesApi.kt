@@ -13,7 +13,7 @@ interface MoviesApi {
 
     companion object {
         const val BASE_URL = "https://api.themoviedb.org/3/"
-        const val API_KEY = "af732da2b672791fce34e89fd4ec2120"
+        const val API_KEY = "XXXXXXX"
         const val LANG = "en-US"
     }
 }
